@@ -3,7 +3,7 @@
 # Movie Recommendation System
 
 <p align="center">
-  <img src="[movie-recommendation-system-logo.png](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.ytimg.com%2Fvi%2FnVKHsur_Yuk%2Fmaxresdefault.jpg&tbnid=Z2_u_0PWwzgIfM&vet=12ahUKEwjrgtyu58X_AhW063MBHckZC0wQMygmegUIARCZAg..i&imgrefurl=https%3A%2F%2Fbeautifulpixels.com%2Fiphone%2Fpopcorn-app-movie-recommendations%2F&docid=DDBxQ9HGH0Oy9M&w=1280&h=720&q=movie%20recommender%20logo&client=opera&ved=2ahUKEwjrgtyu58X_AhW063MBHckZC0wQMygmegUIARCZAg)" alt="Movie Recommendation System Logo">
+  <img src="https://github.com/Deven1902/DSBDA-mini-project/blob/main/movie_recommendation.logo.png" alt="Movie Recommendation System Logo">
 </p>
 
 Welcome to the Movie Recommendation System! This project utilizes content-based filtering to recommend movies based on their plot summaries. By analyzing the similarity between movies, the system suggests relevant and personalized recommendations for users.
